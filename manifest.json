@@ -2,7 +2,7 @@
   "id": "CSSD-Feedback-RestApp",
   "version": "0.0.1",
   "name": "RestApp Feedback",
-  "author": "Mattias Akkurt",
+  "author": "",
   "description": "This is a RestApp to help verify if feedback post is new or not",
   "helpUrl": "",
   "type": "RESTApp",
